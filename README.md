@@ -1,4 +1,4 @@
-# Book_Recommend
+# Book-Recommend
 Book recommender web project based on collaborative filtering algorithm
 
 协同过滤图书推荐系统运行说明
