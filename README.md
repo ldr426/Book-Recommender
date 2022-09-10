@@ -1,8 +1,7 @@
 # Book-Recommend
 Book recommender, rating and shopping web project based on collaborative filtering algorithm
 
-## Environment configuration
--	Python 3.6
+## Environment Configuration
 -	Flask
 -	Mysql 5.7
 -	Pymysql
@@ -132,4 +131,3 @@ The run function can perform multi-threaded calculations, call the calculate fun
 | keyword_book()          | Use keyword to query books                                   |
 | delete_book()           | Delete books                                                 |
 | addbook()               | Add books                                                    |
-
